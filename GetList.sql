@@ -1,0 +1,6 @@
+CREATE PROCEDURE spGetWidgets
+AS
+BEGIN
+    SELECT * FROM Widget;
+END
+
